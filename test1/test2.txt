@@ -1,0 +1,3 @@
+a= {'name' : "park", "score" : 70}
+b= {'name' : "kim", "score" : 80}
+c= {'name' : "park", "score" : 50}

@@ -1,0 +1,4 @@
+a= {'name' : "kim", "money" : 50000}
+b= {'name' : "park", "money" : 30000}
+
+print("%s는 %s보다 %s 있습니다" %(a["name"], b["name"], a["money] - b["money]))
